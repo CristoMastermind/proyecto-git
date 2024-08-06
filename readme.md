@@ -1,6 +1,6 @@
 # Título del proyecto
 
-Curso GIT Proyecto Final
+My Curso GIT Proyecto Final
 
 ## Dscripción corta
 
